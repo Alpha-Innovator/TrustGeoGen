@@ -2,7 +2,7 @@
     <h2> TrustGeoGen: Scalable and Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving </h2>
 
   <br>
-  <img width="95%" src=./assets/teaser.png>
+  <img width="95%" src=./img/framework.png>
 </div>
 
 
